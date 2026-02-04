@@ -39,8 +39,11 @@ Celem projektu jest zaprojektowanie i wdrożenie dedykowanej platformy automatyz
 
 ## 6. Analiza Interesariuszy
 **Osoba odpowiedzialna za biuro** - Chce optymalizować koszty i znać poziom utylizacji przestrzeni biurowej.
+
 **Recepcjonist-a/ka** - Chce by system pilnował rezerwacji pracowniczych i zapobiegał konfliktom.
+
 **Pracownik biura** - Chce móc szybko i wygodnie zarezerwować ulubione miejsce pracy.
+
 **Admin IT** - Chce by dane były bezpieczne i chce mieć możliwośc zarządzania kontami użytkowników.
 
 ## 7. Ryzyka
