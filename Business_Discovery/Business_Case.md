@@ -17,25 +17,25 @@ odwołaniu rezerwacji przez to sale stoją puste.
 - **Nieefektywność rozwiązania:** Pracownik recepcji spędza znaczną część swojego czasu pracy na rozwiązywaniu konfliktów rezerwacyjnych.
 
 ## 3. Cele Biznesowe
-Celem projektu jest zaprojektowanie i wdrożenie dedykowanej platformy automatyzującej proces rezerwacji miejsc pracy.
+Celem inicjatywy jest automatyzacja procesu zarządzania zasobami biurowymi w celu odzyskania utraconej efektywności operacyjnej.
 
-- **Eliminacja konfliktów** - Całkowite wyeliminowanie konfliktów w rezerwacjach stanowisk już w pierwszym miesiącu po wdrożeniu.
-- **Optymalizacja zarządzania zasobami** - Zmniejszenie częstotliwości występowania rezerwacji "widmo".
-- **Oszczędność czasu** - Skrócenie czasu potrzebnego do przeprowadzenia rezerwacji do maksymalnie 30 sekund.
-- **Zapewnienie dostępu do danych analitycznych** - Dostarczanie raportów utylizacji przestrzeni biurowej już po miesiącu od wdrożenia.
+- **Eliminacja konfliktów** - Całkowite wyeliminowanie konfliktów w rezerwacjach stanowisk i sporów o zasoby już w pierwszym miesiącu po wdrożeniu.
+- **Optymalizacja kosztów** - Zmniejszenie częstotliwości występowania niewykorzystanych rezerwacji i lepsze wykorzystanie posiadanej przestrzeni biurowej.
+- **Oszczędność czasu** - Ograniczenie czasu poświęconego na proces rezerwacji do poziomu maksymalnie 30 sekund na operację.
+- **Data-Driven Decision Making** - Dostarczanie raportów utylizacji przestrzeni biurowej już po miesiącu od wdrożenia.
 
-## 4. Zakres Projektu
-- Projekt aplikacji webowej typu SaaS dla pracowników i administracji.
-- System rezerwacji biurek i sal konferencyjnych.
-- Moduł interaktywnego rzutu 2D obiektu.
-- Mechanizm wygodnego i szybkiego potwierdzania i anulowania rezerwacji.
-- Moduł raportowy utylizacji przestrzeni biurowej.
+## 4. Zakres Inicjatywy
+W ramach projektu dostarczone zostaną następujące zdolności operacyjne:
+- Centralny system rezerwacji miejsc pracy w przestrzeni biurowej.
+- Mechanizm wizualizacji dostępności zasobór w biurze.
+- Proces potwierdzania obecności i automatycznego zwalniania niewykorzystanych zasobów.
+- Moduł analityczny raportujący poziom wykorzystania przestrzeni biurowej.
 
-## 5. Poza Zakresem Projektu
-- Aplikacja mobilna Android/IOS.
-- Integracja z systemami smart.
+## 5. Poza Zakresem Inicjatywy
+- Budowa natywnych aplikacji mobilnych.
+- Integracja z systemami smart inteligentnego budynku.
 - Rezerwacja miejsc parkingowych.
-- Obsługi gości.
+- Obsługi gości zewnętrznych i wirtualnej recepcji.
 
 ## 6. Analiza Interesariuszy
 - **Osoba odpowiedzialna za biuro** - Chce optymalizować koszty i znać poziom utylizacji przestrzeni biurowej.
